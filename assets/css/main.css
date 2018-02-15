@@ -153,13 +153,13 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: url(../img/header-bg.jp) no-repeat center top;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 500px;
+	min-height: 700px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
